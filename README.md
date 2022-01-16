@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amxyz-cyber
-- 👀 I’m interested in writing scientific programs, i.e. programs for scientific purposes in the field of chemistry or physics.
+- 👀 I’m interested in writing scientific programs, i.e. programs for scientific purposes in the field of chemistry or physics. What's more, I'd like to write programs for the Raspberry Pi.
 - 🌱 I’m currently studying chemistry.
 - 💞️ I’m looking to collaborate on Java projects, Haskell projects or on any other project that involves visualizing the data of test series.
 - 📫 How to reach me: anzela.minosi@gmail.com
