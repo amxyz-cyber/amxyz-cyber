@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @amxyz-cyber
 - 👀 I’m interested in recompiling programs / libraries written in C++, Java, Haskell, i.e. updating programs by changing the dependencies or extendening the features. What's more, I'd like to write programs for the Raspberry Pi.
+- 🌱 I possess enhanced knowledge of Linux. That's why I'm interested in autmating stuff on this operating system using Bash scripting or Python.
 - 💞️ I’m looking to collaborate on Java projects, Haskell projects or on any other project that involves visualizing the data of test series.
 - 📫 How to reach me: macrolab@posteo.net
 
