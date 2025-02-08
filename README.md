@@ -4,7 +4,7 @@
 - 👀 I’m interested in solving problems from natural sciences by writing applications, e.g. command line tools, using computer simulation or by sticking to high performance computing, e.g. GPU programming, concurrency.
 - 👀 Possessing advanced knowledge of the Raspberry Pi, I’m interested in writing applications for this single board computer using Java, C++ or Python.
 - 💞️ I’m looking to collaborate on Java projects, Haskell projects, Python projects or on any other project that involves visualizing the data of test series.
-- 💞️ Developing my own Java database application called „MyDbApp“, I’m looking to collaborate on database projects.
+- 💞️ Developing my own Java database application called **MyDbApp**, I’m looking to collaborate on database projects.
 - 🌱 What’s more, I’ve been writing for various publishers on topics dealing with Java, Python, Linux and physics.
 - 🌱 I’m studying chemistry as a major on a bachelor's degree at an Austrian University.
 - 📫 How to reach me: macrolab@minosi.net
