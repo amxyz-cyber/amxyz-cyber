@@ -7,6 +7,8 @@
 - 💞️ Developing my own Java database application called **MyDbApp**, I’m looking to collaborate on database projects.
 - 🌱 What’s more, I’ve been writing for various publishers on topics dealing with Java, Python, Linux and physics.
 - 🌱 I’m studying chemistry as a major on a bachelor's degree at an Austrian University.
+- 🌱 In 2021, I received a Nanodegree in Data Analysis from Udacity.
+- 🌱 Apart from that, I completed several computer science courses similar to an associate's degree at LMU.
 - 📫 How to reach me: macrolab@minosi.net
 
 <!---
